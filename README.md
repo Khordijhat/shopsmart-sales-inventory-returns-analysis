@@ -8,7 +8,7 @@ An end-to-end Excel analysis of 50,000 orders across 25 stores, 500 products and
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboaerd.png)
 
 
 ---
